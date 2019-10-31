@@ -1,1 +1,1 @@
-jkf:
+#!/bin/bash
